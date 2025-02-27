@@ -41,26 +41,16 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-###
 
 <h3 align="left">🤝🏻 Connect with Me</h3>
 
 ###
 
 <div align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:newshadowcharles@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/karol-nowocień-863129335/)">
+  <a href="https://www.linkedin.com/in/karol-nowocień-863129335/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/notCienki">
