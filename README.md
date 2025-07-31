@@ -5,7 +5,6 @@
 🎓 Computer Science student at the University of Wrocław  
 🛠 Passionate about software engineering and system-level programming  
 💡 Currently focused on writing efficient and maintainable C/C++ software  
-🎧 Terminal open, headphones on, anime running in the background – productivity 110%  
 
 ## 🛠️ Tech Stack
 
